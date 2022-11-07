@@ -1,7 +1,7 @@
 {
-  "name": "uxpin-merge-boilerplate",
+  "name": "@aftabaig82/uxpin-merge-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "UXPin Merge is a revolutionary technology that lets users import (and keep in sync) coded React.js components from GIT repositories to UXPin editor (https://uxpin.com). The imported components are 100% identical to components used by developers during the development process. It means that components are going to look and, function (interactions, data) identical to the real product experienced by the users.",
   "main": "index.js",
   "scripts": {
     "check": "eslint --ext js,jsx src --ignore-pattern *.tests.js",
