@@ -3,6 +3,14 @@ module.exports = {
   components: {
     categories: [
       {
+        name: 'Tailwind Component',
+        include: [
+          'src/components/List/List.js',
+          'src/components/Calendar/Calendar.js',
+          'src/components/Pricing/Pricing.js',
+        ],
+      },
+      {
         name: 'General',
         include: [
           'src/components/Camera/Camera.js',
